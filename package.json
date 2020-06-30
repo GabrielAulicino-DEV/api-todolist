@@ -13,7 +13,7 @@
     "@types/jest": "^24.0.18",
     "bcrypt": "^3.0.6",
     "cors": "^2.8.5",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "jest": "^24.9.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.7.1",
